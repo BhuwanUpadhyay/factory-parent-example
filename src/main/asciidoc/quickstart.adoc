@@ -8,7 +8,7 @@ Add `factory-parent-example` dependency in your project.
 ----
 <dependency>
     <groupId>io.github.bhuwanupadhyay</groupId>
-    <artifactId>factory</artifactId>
+    <artifactId>factory-parent-example</artifactId>
     <version>{revnumber}</version>
 </dependency>
 ----
