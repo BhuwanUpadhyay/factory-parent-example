@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 **Describe the bug**
-Please provide details of the problem, including the version of Factory Parent Example that you
+Please provide details of the problem, including the version of Library that you
 are using. 
 
 **Sample**
