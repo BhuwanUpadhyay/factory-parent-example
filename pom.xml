@@ -9,7 +9,7 @@
 	<parent>
 		<groupId>io.github.bhuwanupadhyay</groupId>
 		<artifactId>factory-parent</artifactId>
-		<version>1.0.1</version>
+		<version>1.0.0</version>
 	</parent>
 
 	<scm>
@@ -21,6 +21,10 @@
 		</developerConnection>
 		<tag>HEAD</tag>
 	</scm>
+
+	<name>Factory Parent Example</name>
+	<description>Demo Project to Factory Parent.</description>
+	<url>https://github.com/BhuwanUpadhyay/factory-parent-example</url>
 
 	<properties>
 		<java.version>14</java.version>

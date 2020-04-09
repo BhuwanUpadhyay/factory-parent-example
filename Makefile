@@ -12,6 +12,10 @@ help:
 
 ##@ Development
 
+docs: ## Build the project documentation
+	IS_DOCS=true \
+	./scripts/build.sh
+
 build: ## Build the project
 	@scripts/build.sh
 
