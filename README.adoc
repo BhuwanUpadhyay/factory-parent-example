@@ -1,4 +1,4 @@
-== Factory Parent Example
+== Badges
 
 https://github.com/BhuwanUpadhyay/factory-parent-example/actions[image:https://github.com/BhuwanUpadhyay/factory-parent-example/workflows/Java%20CI%20-%20Build%20with%20Maven/badge.svg[Java
 CI - Build with Maven]]
