@@ -1,17 +1,14 @@
 {
   "name": "factory-parent-example",
-  "version": "1.0.0",
-  "description": "== Badges",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "version": "0.0.0-snapshot",
+  "description": "Factory Parent Example",
+  "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BhuwanUpadhyay/factory-parent-example.git"
+    "url": "https://github.com/BhuwanUpadhyay/factory-parent-example.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Bhuwan Prasad Upadhyay",
+  "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/BhuwanUpadhyay/factory-parent-example/issues"
   },
@@ -23,6 +20,7 @@
   },
   "devDependencies": {
     "@commitlint/cli": "^8.3.5",
-    "@commitlint/config-conventional": "^8.3.4"
+    "@commitlint/config-conventional": "^8.3.4",
+    "husky": "^4.2.5"
   }
 }
