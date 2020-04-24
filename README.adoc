@@ -8,5 +8,3 @@ https://mvnrepository.com/artifact/io.github.bhuwanupadhyay/factory-parent-examp
 Central]]
 
 include::src/main/asciidoc/index.adoc[]
-
-
