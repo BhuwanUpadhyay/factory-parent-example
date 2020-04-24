@@ -34,4 +34,5 @@ node_modules
 docs/node
 *.xml.next
 *.xml.tag
-/node_modules/
+#/node_modules/
+#/node/
