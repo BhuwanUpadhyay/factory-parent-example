@@ -33,15 +33,3 @@ full-build: ## Full build the project
 
 version: ## Get the current version
 	./cicd/ci/before_ci.sh
-
-release: ## Perform release
-	@read -p "Sonatype Password: " passwd; \
-	CI_SECURE_ENV_VARS=true \
-	PULL_REQUEST=false \
-	SONATYPE_USER=developerbhuwan \
-	SONATYPE_PASSWORD=$$passwd \
-	./cicd/ci/build.sh
-
-rollback: ## Rollback release
-	IS_ROLLBACK=true \
-	./cicd/ci/build.sh
