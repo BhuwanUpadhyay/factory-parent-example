@@ -3,5 +3,5 @@
 ## On Blog
 - https://bhuwanupadhyay.github.io/blog/xxxx/
 
-## Updated On
+## Last Updated On
 - `2020/05/03` - Initial
